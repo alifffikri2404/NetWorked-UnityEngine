@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Diamond
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Wall
+  - Monitor
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: (Backup 1)
+    uniqueID: 1043510919
+    locked: 0
+  - name: Tileset
+    uniqueID: 865554447
+    locked: 0
+  - name: Object
+    uniqueID: 4029991289
+    locked: 0
+  - name: Character
+    uniqueID: 351951779
+    locked: 0
+  - name: Diamond
+    uniqueID: 1052991833
+    locked: 0
+  - name: (Backup 2)
+    uniqueID: 2400710929
+    locked: 0
+  - name: UI
+    uniqueID: 2791097049
+    locked: 0
