@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f9ff64f448666a479384a3b9c751266, type: 3}
+  m_Name: LocalizationSettings
+  m_EditorClassIdentifier: 
+  sourceType: 0
+  lookupMode: 0
+  encoding: 0
+  defaultLanguage: English
+  bundleAssetName: LocalizationCog
+  bundleName: localization
+  filename: Localization
+  bundleUrl: https://www.nullsave.com/assetbundles/localization

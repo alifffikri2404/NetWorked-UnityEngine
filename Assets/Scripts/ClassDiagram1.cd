@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Scoreboard">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABACAAAAAAkAAIAAAAAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Scoreboard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Score">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Scoreboard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScoreDataWrapper">
+    <Position X="2.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Scoreboard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SaveSQLite">
+    <Position X="3.25" Y="4" Width="1.5" />
+    <NestedTypes>
+      <Class Name="SaveSQLite.ScoreDataWrapper" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Assets\Scripts\SaveSQLite.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>ABAhCAAACCgAAAAAAAABEQAAAAAAQEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\SaveSQLite.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScoreData">
+    <Position X="1.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAAAAQAAAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\SaveSQLite.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ScoreDataList">
+    <Position X="2" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\SaveSQLite.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NameInput">
+    <Position X="4.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAACACAAAAAAAAIAAQAAAAAAAAAAACAAIAAAA=</HashCode>
+      <FileName>Assets\Scripts\NameInput.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KeyManager">
+    <Position X="10.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAEAAAAAAAAAAAIAAAAAAAAAAAAAAQAAAQAA=</HashCode>
+      <FileName>Assets\Scripts\KeyManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ElevatorAction">
+    <Position X="11" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAQAABAAAAAABAAEAAAAAAAEAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>Assets\Scripts\ElevatorAction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AnswerShuffle">
+    <Position X="6.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAwAEAACAAAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\AnswerShuffle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SoundManager">
+    <Position X="8.75" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAAAAwQAAJAACAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\Scripts\SoundManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnityEngine.MonoBehaviour" Collapsed="true">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Object" Collapsed="true">
+    <Position X="0.75" Y="5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="QuestionArray_Level1">
+    <Position X="12.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAIAAAACAEIAABAgAAAIEAAARBAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\QuestionArray_Level1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

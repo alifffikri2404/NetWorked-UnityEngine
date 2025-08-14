@@ -1,0 +1,20 @@
+{
+    "name": "NullSave.GDTK.Editor",
+    "rootNamespace": "",
+    "references": [
+        "NullSave.GDTK.Core",
+        "Unity.TextMeshPro",
+        "Unity.InputSystem"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

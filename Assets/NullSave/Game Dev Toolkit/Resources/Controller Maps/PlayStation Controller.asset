@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33e9c69a84bc914449fb67bf9f1ed168, type: 3}
+  m_Name: PlayStation Controller
+  m_EditorClassIdentifier: 
+  isFallback: 0
+  tmpSpriteAsset: {fileID: 11400000, guid: 30da9a1b685e02648848ef215864a9fd, type: 2}
+  compatibleDevices:
+  - DualShock3GamepadHID
+  - DualShock4GamepadAndroid
+  - DualShock4GamepadHID
+  - DualShock4GampadiOS
+  - DualShockGamepad
+  - FastDualShock4GamepadHID
+  inputMaps:
+  - inputName: leftTrigger
+    tmpSpriteIndex: 13
+  - inputName: rightTrigger
+    tmpSpriteIndex: 8
+  - inputName: cross
+    tmpSpriteIndex: 0
+  - inputName: circle
+    tmpSpriteIndex: 3
+  - inputName: square
+    tmpSpriteIndex: 2
+  - inputName: triangle
+    tmpSpriteIndex: 1
+  - inputName: buttonNorth
+    tmpSpriteIndex: 1
+  - inputName: buttonEast
+    tmpSpriteIndex: 3
+  - inputName: buttonWest
+    tmpSpriteIndex: 2
+  - inputName: buttonSouth
+    tmpSpriteIndex: 0
+  - inputName: leftShoulder
+    tmpSpriteIndex: 16
+  - inputName: rightShoulder
+    tmpSpriteIndex: 12
+  - inputName: select
+    tmpSpriteIndex: 4
+  - inputName: start
+    tmpSpriteIndex: 7
+  - inputName: leftStickPress
+    tmpSpriteIndex: 14
+  - inputName: rightStickPress
+    tmpSpriteIndex: 9
+  - inputName: dpad/up
+    tmpSpriteIndex: 18
+  - inputName: dpad/right
+    tmpSpriteIndex: 19
+  - inputName: dpad/down
+    tmpSpriteIndex: 21
+  - inputName: dpad/left
+    tmpSpriteIndex: 20
+  - inputName: leftStick/left
+    tmpSpriteIndex: 28
+  - inputName: leftStick/right
+    tmpSpriteIndex: 30
+  - inputName: leftStick/up
+    tmpSpriteIndex: 31
+  - inputName: leftStick/down
+    tmpSpriteIndex: 32
+  - inputName: leftStick/x
+    tmpSpriteIndex: 27
+  - inputName: leftStick/y
+    tmpSpriteIndex: 26
+  - inputName: rightStick/left
+    tmpSpriteIndex: 5
+  - inputName: rightStick/right
+    tmpSpriteIndex: 11
+  - inputName: rightStick/up
+    tmpSpriteIndex: 17
+  - inputName: rightStick/down
+    tmpSpriteIndex: 23
+  - inputName: rightStick/x
+    tmpSpriteIndex: 25
+  - inputName: rightStick/y
+    tmpSpriteIndex: 24
+  - inputName: share
+    tmpSpriteIndex: 4
+  - inputName: options
+    tmpSpriteIndex: 7
+  - inputName: leftStick
+    tmpSpriteIndex: 33
+  - inputName: rightStick
+    tmpSpriteIndex: 29

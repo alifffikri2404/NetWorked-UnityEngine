@@ -1,0 +1,312 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33e9c69a84bc914449fb67bf9f1ed168, type: 3}
+  m_Name: Keyboard and Mouse
+  m_EditorClassIdentifier: 
+  isFallback: 1
+  tmpSpriteAsset: {fileID: 11400000, guid: 227cf7b07b1cc5c48970a9564db1884c, type: 2}
+  compatibleDevices:
+  - UnityEngine.InputSystem.FastKeyboard
+  - UnityEngine.InputSystem.Keyboard
+  - UnityEngine.InputSystem.FastMouse
+  - UnityEngine.InputSystem.Mouse
+  - FastKeyboard
+  - Keyboard
+  - FastMouse
+  - Mouse
+  inputMaps:
+  - inputName: a
+    tmpSpriteIndex: 13
+  - inputName: b
+    tmpSpriteIndex: 14
+  - inputName: c
+    tmpSpriteIndex: 15
+  - inputName: d
+    tmpSpriteIndex: 16
+  - inputName: e
+    tmpSpriteIndex: 17
+  - inputName: f
+    tmpSpriteIndex: 18
+  - inputName: g
+    tmpSpriteIndex: 19
+  - inputName: h
+    tmpSpriteIndex: 20
+  - inputName: i
+    tmpSpriteIndex: 21
+  - inputName: j
+    tmpSpriteIndex: 22
+  - inputName: k
+    tmpSpriteIndex: 23
+  - inputName: l
+    tmpSpriteIndex: 24
+  - inputName: m
+    tmpSpriteIndex: 25
+  - inputName: n
+    tmpSpriteIndex: 26
+  - inputName: o
+    tmpSpriteIndex: 27
+  - inputName: p
+    tmpSpriteIndex: 28
+  - inputName: q
+    tmpSpriteIndex: 29
+  - inputName: r
+    tmpSpriteIndex: 30
+  - inputName: s
+    tmpSpriteIndex: 31
+  - inputName: t
+    tmpSpriteIndex: 32
+  - inputName: u
+    tmpSpriteIndex: 33
+  - inputName: v
+    tmpSpriteIndex: 34
+  - inputName: w
+    tmpSpriteIndex: 35
+  - inputName: x
+    tmpSpriteIndex: 36
+  - inputName: y
+    tmpSpriteIndex: 37
+  - inputName: z
+    tmpSpriteIndex: 38
+  - inputName: 0
+    tmpSpriteIndex: 9
+  - inputName: 1
+    tmpSpriteIndex: 0
+  - inputName: 2
+    tmpSpriteIndex: 1
+  - inputName: 3
+    tmpSpriteIndex: 2
+  - inputName: 4
+    tmpSpriteIndex: 3
+  - inputName: 5
+    tmpSpriteIndex: 4
+  - inputName: 6
+    tmpSpriteIndex: 5
+  - inputName: 7
+    tmpSpriteIndex: 6
+  - inputName: 8
+    tmpSpriteIndex: 7
+  - inputName: 9
+    tmpSpriteIndex: 8
+  - inputName: numpad0
+    tmpSpriteIndex: 9
+  - inputName: numpad1
+    tmpSpriteIndex: 0
+  - inputName: numpad2
+    tmpSpriteIndex: 1
+  - inputName: numpad3
+    tmpSpriteIndex: 2
+  - inputName: numpad4
+    tmpSpriteIndex: 3
+  - inputName: numpad5
+    tmpSpriteIndex: 4
+  - inputName: numpad6
+    tmpSpriteIndex: 5
+  - inputName: numpad7
+    tmpSpriteIndex: 6
+  - inputName: numpad8
+    tmpSpriteIndex: 7
+  - inputName: numpad9
+    tmpSpriteIndex: 8
+  - inputName: numpad.
+    tmpSpriteIndex: 88
+  - inputName: numpad/
+    tmpSpriteIndex: 64
+  - inputName: numpad*
+    tmpSpriteIndex: 55
+  - inputName: numpad-
+    tmpSpriteIndex: 83
+  - inputName: numpad+
+    tmpSpriteIndex: 84
+  - inputName: numpadEnter
+    tmpSpriteIndex: 115
+  - inputName: numpad=
+    tmpSpriteIndex: 85
+  - inputName: space
+    tmpSpriteIndex: 105
+  - inputName: tab
+    tmpSpriteIndex: 96
+  - inputName: backspace
+    tmpSpriteIndex: 108
+  - inputName: clear
+    tmpSpriteIndex: 101
+  - inputName: return
+    tmpSpriteIndex: 107
+  - inputName: pause
+    tmpSpriteIndex: 82
+  - inputName: escape
+    tmpSpriteIndex: 77
+  - inputName: '!'
+    tmpSpriteIndex: 10
+  - inputName: '"'
+    tmpSpriteIndex: 110
+  - inputName: '#'
+    tmpSpriteIndex: 12
+  - inputName: $
+    tmpSpriteIndex: 51
+  - inputName: '&'
+    tmpSpriteIndex: 54
+  - inputName: ''''
+    tmpSpriteIndex: 111
+  - inputName: (
+    tmpSpriteIndex: 56
+  - inputName: )
+    tmpSpriteIndex: 57
+  - inputName: '*'
+    tmpSpriteIndex: 55
+  - inputName: +
+    tmpSpriteIndex: 84
+  - inputName: ','
+    tmpSpriteIndex: 87
+  - inputName: '-'
+    tmpSpriteIndex: 83
+  - inputName: .
+    tmpSpriteIndex: 88
+  - inputName: /
+    tmpSpriteIndex: 64
+  - inputName: ':'
+    tmpSpriteIndex: 89
+  - inputName: ;
+    tmpSpriteIndex: 90
+  - inputName: =
+    tmpSpriteIndex: 85
+  - inputName: '?'
+    tmpSpriteIndex: 67
+  - inputName: '@'
+    tmpSpriteIndex: 11
+  - inputName: leftBracket
+    tmpSpriteIndex: 60
+  - inputName: \
+    tmpSpriteIndex: 63
+  - inputName: rightBracket
+    tmpSpriteIndex: 61
+  - inputName: ^
+    tmpSpriteIndex: 53
+  - inputName: _
+    tmpSpriteIndex: 86
+  - inputName: backquote
+    tmpSpriteIndex: 69
+  - inputName: delete
+    tmpSpriteIndex: 70
+  - inputName: upArrow
+    tmpSpriteIndex: 99
+  - inputName: downArrow
+    tmpSpriteIndex: 97
+  - inputName: rightArrow
+    tmpSpriteIndex: 100
+  - inputName: leftArrow
+    tmpSpriteIndex: 98
+  - inputName: insert
+    tmpSpriteIndex: 72
+  - inputName: home
+    tmpSpriteIndex: 73
+  - inputName: end
+    tmpSpriteIndex: 71
+  - inputName: pageUp
+    tmpSpriteIndex: 80
+  - inputName: pageDown
+    tmpSpriteIndex: 81
+  - inputName: f1
+    tmpSpriteIndex: 39
+  - inputName: f2
+    tmpSpriteIndex: 40
+  - inputName: f3
+    tmpSpriteIndex: 41
+  - inputName: f4
+    tmpSpriteIndex: 42
+  - inputName: f5
+    tmpSpriteIndex: 43
+  - inputName: f6
+    tmpSpriteIndex: 44
+  - inputName: f7
+    tmpSpriteIndex: 45
+  - inputName: f8
+    tmpSpriteIndex: 46
+  - inputName: f9
+    tmpSpriteIndex: 47
+  - inputName: f10
+    tmpSpriteIndex: 48
+  - inputName: f11
+    tmpSpriteIndex: 49
+  - inputName: f12
+    tmpSpriteIndex: 50
+  - inputName: numLock
+    tmpSpriteIndex: 78
+  - inputName: capsLock
+    tmpSpriteIndex: 95
+  - inputName: scrollLock
+    tmpSpriteIndex: 79
+  - inputName: rightShift
+    tmpSpriteIndex: 102
+  - inputName: leftShift
+    tmpSpriteIndex: 102
+  - inputName: shift
+    tmpSpriteIndex: 102
+  - inputName: rightControl
+    tmpSpriteIndex: 75
+  - inputName: leftControl
+    tmpSpriteIndex: 75
+  - inputName: control
+    tmpSpriteIndex: 75
+  - inputName: rightAlt
+    tmpSpriteIndex: 74
+  - inputName: leftAlt
+    tmpSpriteIndex: 74
+  - inputName: alt
+    tmpSpriteIndex: 74
+  - inputName: rightCommand
+    tmpSpriteIndex: 104
+  - inputName: leftCommand
+    tmpSpriteIndex: 104
+  - inputName: command
+    tmpSpriteIndex: 104
+  - inputName: rightWindows
+    tmpSpriteIndex: 103
+  - inputName: leftWindows
+    tmpSpriteIndex: 103
+  - inputName: windows
+    tmpSpriteIndex: 103
+  - inputName: printScreen
+    tmpSpriteIndex: 76
+  - inputName: delta/x
+    tmpSpriteIndex: 116
+  - inputName: delta/y
+    tmpSpriteIndex: 116
+  - inputName: mouse/x
+    tmpSpriteIndex: 116
+  - inputName: mouse/y
+    tmpSpriteIndex: 116
+  - inputName: leftButton
+    tmpSpriteIndex: 119
+  - inputName: rightButton
+    tmpSpriteIndex: 117
+  - inputName: middleButton
+    tmpSpriteIndex: 118
+  - inputName: w+s+a+d
+    tmpSpriteIndex: 121
+  - inputName: upArrow+downArrow+leftArrow+rightArrow
+    tmpSpriteIndex: 121
+  - inputName: leftArrow+rightArrow
+    tmpSpriteIndex: 112
+  - inputName: rightArrow+leftArrow
+    tmpSpriteIndex: 112
+  - inputName: upArrow+downArrow
+    tmpSpriteIndex: 110
+  - inputName: downArrow+upArrow
+    tmpSpriteIndex: 120
+  - inputName: w+s
+    tmpSpriteIndex: 120
+  - inputName: s+w
+    tmpSpriteIndex: 120
+  - inputName: a+d
+    tmpSpriteIndex: 112
+  - inputName: d+a
+    tmpSpriteIndex: 112
